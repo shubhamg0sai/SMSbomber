@@ -20,7 +20,7 @@ except ImportError:
 
 colors=['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m']
 W='\033[0m'
-# The Credit For This Code Goes To SpeedX And All Other Contributors Listed At https://github.com/TheSpeedX/TBomb
+# The Credit For This Code Goes To SpeedX And All Other Contributors Listed At https://github.com/shubhamggosai/SMSbomber
 # If You Wanna Take Credits For This Code, Please Look Yourself Again
 
 country_codes = {
@@ -290,7 +290,7 @@ def checkinternet():
         res = True
     if res:
         print("\n\n\tIt seems That Your Internet Speed is Slow or You Are Using Proxies...")
-        print('\t\tTBomb Will Stop Now...\n\n')
+        print('\t\tSMSbomber Will Stop Now...\n\n')
         banner()
         exit()
 
