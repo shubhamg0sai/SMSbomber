@@ -53,9 +53,9 @@ To use the bomber type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/shubhamggosai/SMSbomber.git
-cd TBomb
-chmod +x bomber.sh
-./bomber.sh
+cd SMSbomber
+chmod +x ShuBham.sh
+./ShuBham.sh
 ```
 
 ### > For Linux:
@@ -70,10 +70,10 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/shubhamggosai/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
-sudo bash TBomb.sh
+git clone https://github.com/shubhamggosai/SMSbomber.git
+cd SMSbomber
+chmod +x ShuBham.sh
+sudo bash ShuBham.sh
 ```
 
 ### > For macOS:
@@ -90,53 +90,28 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/shubhamggosai/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
+git clone https://github.com/shubhamggosai/SMSbomber.git
+cd SMSbomber
+chmod +x ShuBham.sh
 
 # Missing Tools on MacOS
 
 Toilet cannot be installed yet. But TBomb does still work.
 
-# Run TBomb:
+# Run SMSbomber:
 
-sudo bash TBomb.sh
+sudo bash ShuBham.sh
 ```
 
-## Demontrative Video:
+### FIND...ME.
 
-- Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
-- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
 
-## CONTRIBUTORS:
+What app  : https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q
 
-- **shubhamggosai**<br>
-[-] Mail At: sgosain18122001@gmail.com
+Instagram : https://www.instagram.com/shubham_g0sain/?hl=en
 
-- **DarkestEntropy**<br>
-[-] Check At: https://github.com/darkestentropy
+Github.   : https://github.com/shubhamggosai
 
-- **The Black Hacker Roxstar**<br>
+Facebook  : https://m.facebook.com/shubham.gosain.980
 
-- **Rieltar**<br>
-[-] Ping At: https://t.me/RieltarReborn
 
-- **0n1cOn3 (Stefan)**<br>
-[-] Mail At: 0n1cOn3@gmx.ch
-
-## Donators:
-
-**[@] 34D30Y ( 34db0y@protonmail.com  )**
-
-**[@] SC AMAN**
-
-# CONTACT ME:
-
-Feel Free To Open An Issue...
-
-```
-                 Mail: sgosain18122001@gmail.com<br>
-             Facebook: https://m.facebook.com/shubham.gosain.980
-``
-
-<!-- L3yvMKWbLJAermqvZT1vKmDkGwqsZmD1rK0= -->
