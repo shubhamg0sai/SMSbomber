@@ -52,10 +52,10 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/shubhamggosai/TBomb.git
+git clone https://github.com/shubhamggosai/SMSbomber.git
 cd TBomb
-chmod +x TBomb.sh
-./TBomb.sh
+chmod +x bomber.sh
+./bomber.sh
 ```
 
 ### > For Linux:
