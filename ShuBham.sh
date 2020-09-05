@@ -29,7 +29,7 @@ echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border ShuBham
 echo -e "\e[4;34m This Bomber Was Created By shubhamggosai \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
+echo -e "\e[1;32m           Mail: sgosain18122001@gmail.com \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
@@ -57,7 +57,7 @@ elif [ $ch -eq 3 ];then
 clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
-git clone https://github.com/TheSpeedX/TBomb
+git clone https://github.com/shubhamggosai/SMSbomber
 if [[ -s ShuBham/ShuBham.sh ]];then
 cd SMSbomber
 cp -r -f * .. > temp
