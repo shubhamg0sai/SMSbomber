@@ -110,7 +110,7 @@ clear
 elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet SMSbomber
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border ShuBham
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
