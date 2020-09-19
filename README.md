@@ -49,8 +49,8 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 <br>
 
 
-![Screenshot_20200910_071620](https://github.com/shubhamggosai/SMSbomber/blob/master/Screenshot_20200910_071620.jpg)
-
+![ ](https://github.com/shubhamggosai/SMSbomber/blob/master/Screenshot/Screenshot_20200910_071620.jpg)
+![ ](
 ## Features:
 
 - Lots of integrated SMS/call APIs
