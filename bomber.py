@@ -254,16 +254,16 @@ def banner():
    ▇▇◣◣▃▅▎▅▃◢◢▇▇ ▇▇▇◣◥▅▅▅◤◢▇▇▇    
    ▇▇▇▇◣╲▇╱◢▇▇▇▇ ▇▇▇▇◣╲▇╱◢▇▇▇▇  
 ####################################################                                                                                                                                         
-######10%                                                                                                                                                                                
-########20%                                                                                                                
-###########30%                                                                                                   
-##############40%                                                                                        
-################50%                                                                         
-###################60%                                                           
-######################70%                                                
-#########################80%                               
-############################90%                   
-###############################100%
+####10%                                                                                                                                                                                
+####20%                                                                                                                
+####30%                                                                                                   
+####40%                                                                                        
+####50%                                                                         
+####60%                                                           
+####70%                                                
+####80%                               
+####90%                   
+####100%
                                          """
     print(random.choice(colors)+logo+W)
     print("\n")
@@ -812,7 +812,7 @@ if ver != verl:
     print('\tStarting Update...')
     update()
 print("Your Version is Up-To-Date")
-print('\n\n\t\t\tStarting TBomb...\n\n')
+print('\n\n\t\t\tStarting SMSbomber...\n\n')
 try:
     noti = urllib.request.urlopen(
         "https://raw.githubusercontent.com/TheSpeedX/TBomb/master/.notify").read().decode('utf-8')
@@ -910,7 +910,7 @@ if cbomb:
 if nm == 0:
     nt = int(input("\tNumber Of Threads(10 to 20) : "))
     if nt <= 0 or nt >= 30:
-        print('\tTBomb Shows Better Result in 10 to 25 Threads\n\t\tStill Continuing....')
+        print('\tSMSbomber Shows Better Result in 10 to 25 Threads\n\t\tStill Continuing....')
     print("\n\nPlease Remember That This Is in Experimental Stage And Is Incredibly Fast...")
     t = [None] * nt
     print(random.choice(colors))
