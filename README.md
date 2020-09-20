@@ -21,6 +21,10 @@ Github.   : https://github.com/shubhamggosai
 
 Facebook  : https://m.facebook.com/shubham.gosain.980
 
+Telegram :
+https://t.me/ShuBham_g0sain
+
+
 
 <h1 align="center">SMSbomber v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
