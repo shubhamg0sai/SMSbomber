@@ -79,7 +79,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/shubhamggosai/SMSbomber.git
+git clone https://github.com/ShuBhamg0sain/SMSbomber.git
 cd SMSbomber
 chmod +x ShuBham.sh
 ./ShuBham.sh
@@ -97,7 +97,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/shubhamggosai/SMSbomber.git
+git clone https://github.com/ShuBhamg0sain/SMSbomber.git
 cd SMSbomber
 chmod +x ShuBham.sh
 sudo bash ShuBham.sh
@@ -117,7 +117,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/shubhamggosai/SMSbomber.git
+git clone https://github.com/ShuBhamg0sain/SMSbomber.git
 cd SMSbomber
 chmod +x ShuBham.sh
 
