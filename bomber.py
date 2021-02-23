@@ -23,9 +23,6 @@ print(r"                                                                        
     
 def send(target, counter, delay):
     bombers = {
-    "OYO Rooms": "https://www.oyorooms.com/api/pwa/generateotp?phone=",
-    "Delhivery": "https://direct.delhivery.com/delhiverydirect/order/generate-otp?phoneNo=",
-    "RailYatri": "https://www.railyatri.in/m/user-web-point?phone_number=",
     "ConfirmTkt": "https://securedapi.confirmtkt.com/api/platform/register?mobileNumber="
     }
 
