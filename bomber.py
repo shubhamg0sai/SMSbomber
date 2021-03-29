@@ -10,16 +10,7 @@ def banner():
     else:
         os.system("clear")
     
-                       
-print(r"                                                                                              ")
-print(r"                                                                                              ")
-print(r"          _   _                    _                    _      _                  _           ")
-print(r"   __ _  | | | | _   _ __         | |__    __ _   ___  | |    | |__    __   ___  | | _  ___   ")
-print(r"  / _` | | | | |/ / | '__|  ____  | __ \  / _' | / __| | |/ / | __ \  / _/ / __| | |/ /|__ \  ")
-print(r" | (_| | | | |   <  | |    |____| | | | || (_| || (__  |   <  | | | ||  _/| (__  |   <   //__ ")
-print(r"  \__,_| |_| |_|\_\ |_|           |_| |_| \__,_| \___| |_|\_\ |_| |_| \__| \___| |_|\_\ /___| ")
-print(r"                                                                                              ")
-print(r"                                                                                              ")
+             
     
 def send(target, counter, delay):
     bombers = {
@@ -58,4 +49,4 @@ def send(target, counter, delay):
 
 banner()
 print("")
-send(input("Enter Target Number :  "), input("Enter Number of Messages: "), input("Enter Delay time (in seconds): "))
+send(input("Enter Target Number :  "), input("Enter Number of Messages "), input("Enter Delay time (in seconds): "))
