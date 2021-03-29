@@ -35,7 +35,7 @@ def send(target, counter, delay):
         banner()
         api = random.choice(list(bombers))
 
-        print("============================ALKRBOMB==============================")
+        print("============================SHUBHAMGOSAIN==============================")
         print("                BOMBING in progress, please wait !!               ")
         print("     Please keep your data connection active during bombing !!    ")
         print("==================================================================")
