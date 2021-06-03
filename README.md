@@ -63,8 +63,8 @@ pkg install git
 pkg install python
 git clone https://github.com/ShuBhamg0sain/SMSbomber.git
 cd SMSbomber
-chmod +x ShuBham.sh
-./ShuBham.sh
+chmod +x bomber.py
+python bomber.py
 ```
 
 ### > For Linux:
@@ -81,8 +81,8 @@ To use the bomber type the following commands in Linux terminal:
 sudo apt install git
 git clone https://github.com/ShuBhamg0sain/SMSbomber.git
 cd SMSbomber
-chmod +x ShuBham.sh
-sudo bash ShuBham.sh
+chmod +x bomber.py
+python bomber.py
 ```
 
 ### > For macOS:
@@ -101,7 +101,7 @@ sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/ShuBhamg0sain/SMSbomber.git
 cd SMSbomber
-chmod +x ShuBham.sh
+chmod +x bomber.py
 
 # Missing Tools on MacOS
 
@@ -109,7 +109,7 @@ Toilet cannot be installed yet. But TBomb does still work.
 
 # Run SMSbomber:
 
-sudo bash ShuBham.sh
+python bomber.py
 ```
 
 
