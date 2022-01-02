@@ -1,11 +1,8 @@
 # SMSbomber
 
  
-FIND...ME.
-
-
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
 <h1 align="center">SMSbomber v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
@@ -62,7 +59,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/ShuBhamg0sain/SMSbomber.git
+git clone https://github.com/shubhamg0sai/SMSbomber.git
 cd SMSbomber
 chmod +x bomber.py
 python bomber.py
@@ -80,7 +77,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/ShuBhamg0sain/SMSbomber.git
+git clone https://github.com/shubhamg0sai/SMSbomber.git
 cd SMSbomber
 chmod +x bomber.py
 python bomber.py
@@ -100,7 +97,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/ShuBhamg0sain/SMSbomber.git
+git clone https://github.com/shubhamg0sai/SMSbomber.git
 cd SMSbomber
 chmod +x bomber.py
 
